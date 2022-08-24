@@ -24,25 +24,45 @@ You can leave attributes blank to start as it will use default settings.
 Demo SQL
 ---------------------------------------------------
 select 'Australie' as VALUE_1, 60 as VALUE_2, 70 as VALUE_3 from DUAL
+
 UNION
+
 select 'New Zealand' as VALUE_1, 70 as VALUE_2, 80 as VALUE_3 from DUAL
+
 UNION
+
 select 'Scotland' as VALUE_1, 80 as VALUE_2, 90 as VALUE_3 from DUAL
+
 UNION
+
 select 'England' as VALUE_1, 50 as VALUE_2, 70 as VALUE_3 from DUAL
+
 UNION
+
 select 'France' as VALUE_1, 55 as VALUE_2, 90 as VALUE_3 from DUAL
+
 UNION
+
 select 'Spain' as VALUE_1, 67 as VALUE_2,98 as VALUE_3 from DUAL
+
 UNION
+
 select 'United States' as VALUE_1, 82 as VALUE_2, 89 as VALUE_3 from DUAL
+
 UNION
+
 select 'Peru' as VALUE_1, 70 as VALUE_2, 79 as VALUE_3 from DUAL
+
 UNION
+
 select 'Portugal' as VALUE_1, 55 as VALUE_2, 95 as VALUE_3 from DUAL
+
 UNION
+
 select 'India' as VALUE_1, 65 as VALUE_2, 85 as VALUE_3 from DUAL
+
 UNION
+
 select 'Senegal' as VALUE_1, 45 as VALUE_2, 65 as VALUE_3 from DUAL
 
 

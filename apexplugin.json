@@ -1,7 +1,7 @@
 {
-	"name": "ProgressStatus",
+	"name": "HighchartBarbell",
 	"version": "1.0",
-	"description": "Display a HighCharts dumbbell chart in your APEX app",
+	"description": "Display a HighCharts barbell chart in your APEX app",
 	"keywords": ["progress"],
 	"homepage": "https://github.com/fistle/oracle-apex-highcharts-barbell-region-plugin",
 	"bugs": {

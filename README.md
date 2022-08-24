@@ -1,5 +1,5 @@
-# oracle-apex-progress-status-region-plugin
-An oracle APEX region plugin to show progress status
+# oracle-apex-highcharts-barbell-region-plugin
+An oracle APEX region plugin to show a HighCharts barbell chart
 
 Demo
 Add a High chart dumbbell chart to your Oracle APEX app. 
